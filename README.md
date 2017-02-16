@@ -9,7 +9,11 @@ This plugin provides a `BinaryView` for memory dumps of Microcorruption CTF chal
 
 To install this plugin, navigate to your Binary Ninja plugins directory, and run
 
-```git clone https://github.com/joshwatson/binaryninja-microcorruption.git microcorruption```
+`git clone https://github.com/joshwatson/binaryninja-microcorruption.git microcorruption`
+
+## Dependencies
+
+This plugin requires the [MSP430 Architecture plugin](https://github.com/joshwatson/binaryninja-msp430).
 
 ## Minimum Version
 
